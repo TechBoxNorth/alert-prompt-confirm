@@ -10,3 +10,5 @@ if (answer) {
 } else {
   console.log("Rise and shine!");
 }
+
+window.alert("Tjoho!");
